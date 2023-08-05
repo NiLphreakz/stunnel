@@ -1,8 +1,9 @@
 # Build and Release Folders
+bin/
 bin-debug/
 bin-release/
-[Oo]bj/
-[Bb]in/
+[Oo]bj/ # FlashDevelop obj
+[Bb]in/ # FlashDevelop bin
 
 # Other files and folders
 .settings/
